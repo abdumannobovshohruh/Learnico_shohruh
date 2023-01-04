@@ -1,0 +1,494 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'DM Sans', sans-serif;
+}
+nav{
+    background: #00353B;
+}
+.list{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.list_a{
+text-decoration: none;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+color: #FFFFFF;
+}
+.card_1{
+    display: flex;
+    align-items: center ;
+    margin-left: 300px;
+    margin-top: 10px;
+}
+.search{
+    margin-left: 15px;
+}
+.search_p{
+padding-top: 10px;
+padding-left: 5px;
+/* font-family: 'DM Sans'; */
+/* font-style: normal; */
+font-weight: 400;
+font-size: 16px;
+/* line-height: 24px; */
+/* identical to box height, or 150% */
+color: #FFFFFF;
+}
+.signup{
+margin-left: 40px;
+margin-top: 10px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+color: #1F2937;
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+border-radius: 8px;
+padding: 8px 25px;
+margin-bottom: 40px;
+}
+/* -----------------------------------------navbar end-------------------------------------- */
+.become{
+margin-top: 100px;
+/* font-family: 'Poppins'; */
+/* font-style: normal; */
+font-weight: 400;
+font-size: 45px;
+/* line-height: 67px; */
+/* or 120% */
+color: #FFFFFF;
+}x
+.ispum{
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* or 150% */
+    color: #FFFFFF;
+}
+.explore{
+margin-top: 30px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+color: #FFFFFF;
+background: #22A45A;
+border: 1px solid #22A45A;
+border-radius: 8px;
+padding: 13px 25px;
+}
+.explore_card{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-evenly; */
+}
+.mini-explore{
+    padding-top: 30px;
+    display: flex;
+    align-items: center;
+}
+.watch{
+padding-top: 12px;
+padding-left: 10px;
+/* font-family: 'DM Sans'; */
+/* font-style: normal; */
+font-weight: 400;
+font-size: 16px;
+/* line-height: 24px; */
+/* identical to box height, or 150% */
+/* text-align: center; */
+color: #FFFFFF;
+}
+.from_card{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    /* justify-content: space-around; */
+}
+.from_card-mini{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.k3{
+/* font-family: 'DM Sans'; */
+/* font-style: normal; */
+font-weight: 400;
+font-size: 16px;
+/* line-height: 24px; */
+/* identical to box height, or 150% */
+color: #FFFFFF;
+}
+.family{
+    margin-top: 40px;
+}
+/* ---------------------------------------row 2 end------------------------------------ */
+.world{
+margin-top: 80px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height, or 150% */
+text-align: center;
+color: #FFFFFF;
+padding-bottom: 300px;
+}
+/* -------------------------------------------row 3 end----------------------------- */
+.about{
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height, or 150% */
+text-align: center;
+color: #1F2937;
+}
+/* -------------------------------------------row end--------------------------------------------------- */
+.big_cards{
+background: #FCD8CA;
+border-radius: 24px;
+position: relative;
+top: -200px;
+}
+.about{
+margin-top: 60px;
+/* font-family: 'DM Sans'; */
+/* font-style: normal; */
+font-weight: 400;
+font-size: 14px;
+/* line-height: 21px; */
+/* identical to box height, or 150% */
+/* text-align: center; */
+color: #1F2937;
+background: #FFFFFF;
+border-radius: 4px;
+padding: 4px 8px;
+border: none;
+}
+.nocode{
+margin-top: 15px;
+margin-bottom: 25px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height, or 120% */
+text-align: center;
+color: #1F2937;
+}
+.dolor{
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* or 150% */
+text-align: center;
+color: #374151;
+margin-bottom: 30px;
+}
+.about2{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+color: #FFFFFF;
+background: #1F2937;
+border: 1px solid #1F2937;
+border-radius: 8px;
+padding: 13px 25px;
+margin-bottom: 60px;
+}
+.button_text{
+    text-align: center;
+}
+/* ------------------------------------section 1 end------------------------------------------ */
+.premium{
+/* font-family: 'Poppins'; */
+/* font-style: normal; */
+font-weight: 400;
+font-size: 48px;
+/* line-height: 58px; */
+/* or 120% */
+color: #1F2937;
+margin-top: 150px;
+}
+.nulla{
+/* font-family: 'DM Sans'; */
+/* font-style: normal; */
+font-weight: 400;
+font-size: 18px;
+/* line-height: 27px; */
+/* or 150% */
+color: #4B5563;
+}
+.card_box{
+    display: flex;
+    align-self: start;
+}
+.start{
+/* font-family: 'DM Sans'; */
+/* font-style: normal; */
+font-weight: 400;
+font-size: 16px;
+/* line-height: 24px; */
+/* identical to box height, or 150% */
+text-align: center;
+color: #FFFFFF;
+background: #1F2937;
+border: 1px solid #1F2937;
+border-radius: 8px;
+padding:12px 25px;
+}
+.chevron{
+/* font-family: 'DM Sans'; */
+/* font-style: normal; */
+font-weight: 400;
+font-size: 16px;
+/* line-height: 24px; */
+/* identical to box height, or 150% */
+text-align: center;
+color: #111827;
+}
+.learn{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+/* ----------------------------------------row end----------------------------- */
+.trend{
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height, or 150% */
+text-align: center;
+color: #1F2937; 
+background: #FCD8CA;
+border-radius: 4px;
+border: none;
+padding: 4px 8px;
+margin-top: 100px;
+}
+/* ------------------------row---------------- */
+.the{
+margin-top: 11px;
+margin-bottom: 25px;
+/* font-family: 'Poppins'; */
+/* font-style: normal; */
+font-weight: 400;
+font-size: 48px;
+/* line-height: 58px; */
+/* identical to box height, or 120% */
+/* text-align: center; */
+color: #1F2937;
+}
+.ornare{
+/* font-family: 'DM Sans'; */
+/* font-style: normal; */
+font-weight: 400;
+font-size: 18px;
+/* line-height: 27px; */
+/* or 150% */
+text-align: center;
+color: #4B5563;
+margin-bottom: 60px;
+}
+/* --------------------------------------row end------------------------------------ */
+.card_4{
+background: #00353B;
+border-radius: 16px;
+margin-bottom: 100px;
+}
+.beginer{
+/* font-family: 'DM Sans'; */
+/* font-style: normal; */
+font-weight: 400;
+font-size: 14px;
+/* line-height: 21px; */
+/* identical to box height, or 150% */
+color: #1F2937;
+padding: 4px 8px;
+border: none;
+background: #FFFFFF;
+border-radius: 4px;
+margin-top: 30px;
+}
+.web{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 34px;
+/* identical to box height, or 140% */
+color: #FFFFFF;
+margin-top: 20px;
+}
+.usd{
+margin-top: 15px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height, or 150% */
+color: #FFFFFF;
+}
+.card_4-1{
+    margin-left: 20px;
+}
+.card_4-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.errol{
+/* font-family: 'DM Sans'; */
+/* font-style: normal; */
+font-weight: 400;
+font-size: 16px;
+/* line-height: 24px; */
+/* identical to box height, or 150% */
+text-align: center;
+color: #FFFFFF;
+background: #22A45A;
+border: 1px solid #22A45A;
+border-radius: 8px;
+padding: 14px 20px;
+margin-left: 10px;
+margin-top: 200px;
+}
+.rom{
+    margin-top: 70px;
+}
+/* -----------------------------------------row end------------------------------------ */
+.join{
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height, or 150% */
+color: #1F2937;
+background: #FFFFFF;
+border-radius: 4px;
+padding: 4px 8px;
+border: none;
+margin-top: 60px;
+}
+.card-5{
+background: #FCD8CA;
+/* border-radius: 24px; */
+}
+.card-5-1{
+    margin-left: 50px;
+}
+.more{
+margin-top: 10px;
+/* font-family: 'Poppins'; */
+/* font-style: normal; */
+font-weight: 400;
+font-size: 48px;
+/* line-height: 58px; */
+/* or 120% */
+color: #1F2937;
+}
+.amet{
+/* font-family: 'DM Sans'; */
+/* font-style: normal; */
+font-weight: 400;
+font-size: 18px;
+/* line-height: 27px; */
+/* or 150% */
+color: #374151;
+margin-top: 25px;
+margin-bottom: 30px;
+}
+.get2{
+/* font-family: 'DM Sans'; */
+/* font-style: normal; */
+font-weight: 400;
+font-size: 16px;
+/* line-height: 24px; */
+/* identical to box height, or 150% */
+text-align: center;
+color: #FFFFFF;
+background: #1F2937;
+border: 1px solid #1F2937;
+border-radius: 8px;
+padding: 13px 23px;
+margin-bottom: 60px;
+}
+.guy{
+    position: relative;
+    right: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ---------------------------------------------responive---------------------------------------- */
+@media (max-width:575px) {
+   .list-2{
+     display: flex;
+     /* justify-content:space-between ; */
+   }
+   .list_a2{
+    padding-left: 10px;
+    text-decoration: none;
+   }
+    }
