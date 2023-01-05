@@ -72,15 +72,6 @@ font-size: 45px;
 /* line-height: 67px; */
 /* or 120% */
 color: #FFFFFF;
-}x
-.ispum{
-font-family: 'DM Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 27px;
-/* or 150% */
-    color: #FFFFFF;
 }
 .explore{
 margin-top: 30px;
@@ -96,6 +87,12 @@ background: #22A45A;
 border: 1px solid #22A45A;
 border-radius: 8px;
 padding: 13px 25px;
+}
+.textname_p{
+    color: #FFFFFF;
+    font-weight: 400;
+font-size: 18px;
+margin-top: 30px;
 }
 .explore_card{
     display: flex;
@@ -164,6 +161,9 @@ line-height: 21px;
 /* identical to box height, or 150% */
 text-align: center;
 color: #1F2937;
+}
+.button-div{
+    text-align: center;
 }
 /* -------------------------------------------row end--------------------------------------------------- */
 .big_cards{
@@ -308,6 +308,7 @@ font-size: 48px;
 /* identical to box height, or 120% */
 /* text-align: center; */
 color: #1F2937;
+text-align: center;
 }
 .ornare{
 /* font-family: 'DM Sans'; */
@@ -323,6 +324,11 @@ margin-bottom: 60px;
 /* --------------------------------------row end------------------------------------ */
 .card_4{
 background: #00353B;
+border-radius: 16px;
+margin-bottom: 100px;
+}
+.card_44{
+    background: #00353B;
 border-radius: 16px;
 margin-bottom: 100px;
 }
@@ -448,39 +454,286 @@ margin-bottom: 60px;
 .guy{
     position: relative;
     right: 25px;
+    height: 462px;
+    margin-bottom: 60px;
 }
+/*  */
+.browse{
+    margin-top: 32px;
+    margin-bottom: 20px;
+    font-weight: 400;
+font-size: 24px;
+color: #1F2937;
+}
+.browsetext{
+    color: #4B5563;
+    font-weight: 400;
+font-size: 16px;
+}
+.textpet{
+    color: #4B5563;
+    font-weight: 400;
+font-size: 18px;
+margin-top: 20px;
+}
+.prestext{
+text-align: center;
+}
+.growtext{
+    margin-top: 15px;
+}
+.teachers{
+color: #1F2937;
+font-weight: 400;
+font-size: 30px;
+text-align: center;
+}
+.textteacher{
+ text-align: center;
+color: #4B5563;
+font-weight: 400;
+font-size: 15px;
+}
+.smile{
+    margin-top: 60px;
+    margin-left: 120px;
+    margin-bottom: 20px;
+}
+.getbig{
+text-align: center;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
+.get{
+    color: #FFFFFF;
+font-weight: 400;
+font-size: 16px;
+background: #1F2937;
+border: 1px solid #1F2937;
+border-radius: 8px;
+padding: 13px 25px;
+}
+.bigCardStudents{
+background: #FCD8CA;
+border-radius: 24px;
+margin-top: 40px;
+position: relative;
+top: 360px;
+}
+.card_button2{
+    text-align: center;
+    padding-top: 90px;
+}
+.test{
+    background: #FFFFFF;
+border-radius: 4px;
+color: #1F2937;
+font-weight: 400;
+font-size: 14px;
+border: none;
+padding: 4px 8px;
+}
+.students{
+text-align: center;
+color: #1F2937;
+font-weight: 400;
+font-size: 48px;
+margin-top: 15px;
+}
+.elementary{
+text-align: center;
+color: #4B5563;
+font-weight: 400;
+font-size: 18px;
+}
+.termins{
+color: #1F2937;
+font-weight: 400;
+font-size: 17px;
+padding-top: 30px;
+padding-bottom: 50px;
+}
+.spaceCard{
+background: #FFFFFF;
+border-radius: 16px;
+padding-bottom: 30px;
+margin-bottom: 80px;
+margin-top: 70px;
+}
+.space_photo{
+    padding-top: 30px;
+}
+.mini_Space_Card{
+    display: flex;
+align-items: center;
+}
+.orlando{
+font-weight: 400;
+font-size: 16px;
+color: #111827;
+}
+.orlando_a{
+color: #6B7280;
+font-weight: 400;
+font-size: 16px;
+}
+.mini_space-2{
+    padding-left: 15px;
+}
+.tell{
+    
+background: #00353B;
+}
+.blog{
+background: #FCD8CA;
+border-radius: 4px;
+font-weight: 400;
+font-size: 14px;
+color: #1F2937;
+border: none;
+margin-top: 500px;
+padding: 4px 8px;
+}
+.post{
+font-weight: 400;
+font-size: 48px;
+color: #FFFFFF;
+margin-top: 10px;
+padding-bottom: 80px;
+}
+.alli{
+font-weight: 400;
+font-size: 16px;
+text-align: center;
+color: #1F2937;
+margin-top: 550px;
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+border-radius: 8px;
+padding: 13px 25px;
+border: none;
+}
+.free{
+font-weight: 400;
+font-size: 14px;
+color: #111827;
+background: #AADEA8;
+border-radius: 4px;
+padding: 4px 8px;
+border: none;
+margin-top: 20px;
+}
+.seveny{
+font-weight: 400;
+font-size: 30px;
+color: #1F2937;
+}
+.girlLaptop{
+ width: 100%;
+}
+.image_girl{
+    background: #FFFFFF;
+}
+.elita{
+font-weight: 400;
+font-size: 15px;
+color: #4B5563;
+}
+.image_girlmini{
+margin-left: 20px;
+padding-bottom: 30px;
+}
+.image_girlmini_2{
+    margin-left: 20px;
+    padding-bottom: 1px;
+    }
+.start_today{
+font-weight: 400;
+font-size: 48px;
+text-align: center;
+color: #FFFFFF;
+margin-top: 120px;
+}
+.text_tom{
+font-weight: 400;
+font-size: 18px;
+text-align: center;
+color: #FFFFFF;
+margin-top: 20px;
+margin-bottom: 40px;
+}
+.ford{
+font-weight: 400;
+font-size: 16px;
+text-align: center;
+color: #FFFFFF;
+background: #22A45A;
+border: 1px solid #22A45A;
+border-radius: 8px;
+border: none;
+padding: 13px 25px;
+}
+.mustang{
+font-weight: 400;
+font-size: 16px;
+text-align: center;
+color: #1F2937;
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+border-radius: 8px;
+border: none;
+padding: 13px 25px;
+}
+.clas{
+margin-top: 200px;
+font-weight: 400;
+font-size: 16px;
+color: #FFFFFF;
+}
+.only{
+ background: #FFFFFF;
+border: 1px solid #E5E7EB;
+box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.08);
+border-radius: 8px;
+padding: 11px 25px;
+}
+.low{
+background: #22A45A;
+border: 1px solid #22A45A;
+border-radius: 8px;
+font-weight: 400;
+font-size: 15px;
+text-align: center;
+color: #FFFFFF;
+border: none;
+padding: 13px 25px;
+}
+.police{
+font-weight: 400;
+font-size: 12px;
+color: #FFFFFF;
+margin-top: 15px;
+}
+.dawn{
+margin-top: 150px;
+font-weight: 400;
+font-size: 16px;
+color: #FFFFFF;
+margin-bottom: 20px;
+}
+.dawn2{
+font-weight: 400;
+font-size: 16px;
+color: #FFFFFF;
+}
+.hush{
+font-weight: 400;
+font-size: 14px;
+color: #FFFFFF;
+text-decoration: none;
+}
+.hush:hover{
+    color: #FFFFFF;
+}
 /* ---------------------------------------------responive---------------------------------------- */
 @media (max-width:575px) {
    .list-2{
